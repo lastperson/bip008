@@ -1,0 +1,26 @@
+{
+  "name": "bip008",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test",
+    "compile": "truffle compile",
+    "ganache": "ganache-cli --gasLimit 8000000 -s 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lastperson/bip008.git"
+  },
+  "keywords": [
+    "ethereum"
+  ],
+  "author": "Oleksii Matiiasevych <oleksii@ambisafe.com> (Ambisafe Inc.)",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/lastperson/bip008",
+  "devDependencies": {
+    "ganache-cli": "6.4.3",
+    "truffle": "5.0.13",
+    "ethereumjs-util": "^5.1.1"
+  }
+}
