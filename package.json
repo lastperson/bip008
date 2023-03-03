@@ -20,7 +20,7 @@
   "homepage": "https://github.com/lastperson/bip008",
   "devDependencies": {
     "ganache-cli": "^6.4.3",
-    "truffle": "^5.0.13",
+    "truffle": "^5.7.9",
     "ethereumjs-util": "^5.1.1"
   }
 }
